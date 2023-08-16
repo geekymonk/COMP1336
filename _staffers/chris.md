@@ -1,9 +1,9 @@
 ---
-name: More Evil Kevin
+name: Chris Potter
 role: Teaching Assistant
-email: me@example.com
+email: potterce@google.com
 website: https://kevinl.info
-photo: kevin.jpg
+photo: chris.jpg
 ---
 
 I like teaching Computer Science!

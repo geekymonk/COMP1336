@@ -1,9 +1,9 @@
 ---
-name: Really Evil Kevin
+name: Gaurav Agarwal
 role: Teaching Assistant
-email: me@example.com
+email: gkagarwal@google.com
 website: https://kevinl.info
-photo: kevin.jpg
+photo: gaurav.jpg
 ---
 
 I like teaching Computer Science!
