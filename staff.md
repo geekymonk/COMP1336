@@ -18,9 +18,19 @@ For a quicker response on homework or project help, please ask on EdStem rather 
 {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
+
+{% assign program_specialists = site.staffers | where 'role', 'University Program Specialist' %}
+
 ## Google Teaching Assistants (TAs)
 
 {% for staffer in teaching_assistants %}
+{{ staffer }}
+{% endfor %}
+{% endif %}
+
+## Google University Program Specialist
+
+{% for staffer in program_specialists %}
 {{ staffer }}
 {% endfor %}
 {% endif %}
