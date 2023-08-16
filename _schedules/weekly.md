@@ -31,6 +31,11 @@ schedule:
         start: 2:00 PM
         end: 3:20 PM
         location: TBD
+
+      - name: Office Hours
+        start: 3:30 PM
+        end: 5:00 PM
+        location: TBD
   - name: Wednesday
     events:
       - name: COMP 1121-P83
@@ -42,6 +47,11 @@ schedule:
         start: 12:00 PM
         end: 1:50 PM
         location: TBD
+
+      - name: Office Hours
+        start: 2:00 PM
+        end: 3:30 PM
+        location: TBD
   - name: Thursday
     events:
       - name: COMP 1336-P02
@@ -52,6 +62,11 @@ schedule:
       - name: COMP 1336-P03
         start: 2:00 PM
         end: 3:20 PM
+        location: TBD
+
+      - name: Office Hours
+        start: 3:30 PM
+        end: 5:00 PM
         location: TBD
   - name: Friday
 ---
