@@ -20,47 +20,38 @@ timeline:
   - '5:30 PM'
 schedule:
   - name: Monday
-    events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
   - name: Tuesday
+    events:
+      - name: COMP 1336-P02
+        start: 11:00 AM
+        end: 12:20 PM
+        location: TBD
+
+      - name: COMP 1336-P03
+        start: 2:00 PM
+        end: 3:20 PM
+        location: TBD
   - name: Wednesday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+      - name: COMP 1121-P83
+        start: 9:00 AM
+        end: 10:50 AM
+        location: TBD
+  
+      - name: COMP 1121-P82
+        start: 12:00 AM
+        end: 1:50 PM
+        location: TBD
   - name: Thursday
-  - name: Friday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+      - name: COMP 1336-P02
+        start: 11:00 AM
+        end: 12:20 PM
+        location: TBD
+
+      - name: COMP 1336-P03
+        start: 2:00 PM
+        end: 3:20 PM
+        location: TBD
+  - name: Friday
 ---
