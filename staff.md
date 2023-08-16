@@ -29,8 +29,7 @@ For a quicker response on homework or project help, please ask on EdStem rather 
 {% endif %}
 
 ## Google University Program Specialist
-
-{% for staffer in program_specialists %}
+{% assign u_program_specialist = site.staffers | where: 'role', 'University Program Specialist' %}
+{% for staffer in u_program_specialist %}
 {{ staffer }}
 {% endfor %}
-{% endif %}
