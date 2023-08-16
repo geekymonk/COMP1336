@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: COMP 1336
-tagline: Prairie View A&M University COMP 1336 Fall 2023
-description: Intro to CS I & Lab
+tagline: PVAMU COMP 1336 Fall 2023
+description: Intro to Computer Science I & Lab
 author: Donnell Debnam Jr.
 baseurl: '/' # the subpath of your site, e.g. /blog
 url: 'https://comp1336.com' # the base hostname & protocol for your site, e.g. http://example.com

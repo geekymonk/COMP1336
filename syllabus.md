@@ -33,7 +33,7 @@ By the end of the course, students will learn
 
 ## Course Meetings
 
-Lectures, labs, and office hours are the main ways in which you will interact with your professor and TAs. You can see the weekly schedule of course meetings on the [course schedule page](https://google.com).
+Lectures, labs, and office hours are the main ways in which you will interact with your professor and TAs. You can see the weekly schedule of course meetings on the [course schedule page](schedule.md).
 
 ## Primary Course Components
 
