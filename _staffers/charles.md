@@ -1,8 +1,8 @@
 ---
-name: Evil Kevin
+name: Charles Simms
 role: Teaching Assistant
-email: me@example.com
-website: https://kevinl.info
+email: cwsimms@google.com
+# website: https://kevinl.info
 photo: kevin.jpg
 ---
 
