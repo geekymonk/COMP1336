@@ -3,7 +3,7 @@ name: Donnell Debnam Jr. ✍️
 role: Instructor
 email: ddebnam@google.com
 # website: https://kevinl.info
-photo: donnell.png
+photo: donnell.jpg
 meta:
   Office Hours: Somewhere on the internet
 ---
