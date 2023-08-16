@@ -1,8 +1,8 @@
 ---
-name: Gaurav Agarwal
+name: Gaurav Kumar Agarwal
 role: Teaching Assistant
 email: gkagarwal@google.com
-# website: https://kevinl.info
+website: https://[Linkedin](https://www.linkedin.com/in/geekymonk/)
 photo: gaurav.jpg
 ---
 
