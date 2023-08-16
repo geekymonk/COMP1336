@@ -39,7 +39,7 @@ schedule:
         location: TBD
   
       - name: COMP 1121-P82
-        start: 12:00 AM
+        start: 12:00 PM
         end: 1:50 PM
         location: TBD
   - name: Thursday
