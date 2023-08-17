@@ -11,4 +11,4 @@ meta:
 
 I've got a bachelor's in Computer Engineering and a master's in Computer Science, both from Purdue University. The latter was a lot more fun. Currently I work as an SRE on Google's Cloud Compute Platform, which is sort of like software as a service as a service. I loved teaching in academia and am thrilled to have the opportunity again!
 
-[Schedule an appointment](https://calendar.app.google/V2dn8apQ2S8u4vbG9){: .btn .btn-outline }
+[Schedule an appointment](https://calendar.app.google/u6KjLCfgj4hB8x7N6){: .btn .btn-outline }
