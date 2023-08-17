@@ -34,6 +34,8 @@ aux_links:
     - 'https://pythontutor.com/cpp.html#mode=edit'
   Canvas:
     - 'https://ecourses.pvamu.edu/'
+  Textbook:
+    - 'https://ntedu.top/wp-content/uploads/2018/11/Programming-And-Problem-Solving-With-C-Comprehensive-6th-Edition.pdf'
 footer_content:
 
 # Collections for website data
