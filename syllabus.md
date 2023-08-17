@@ -58,9 +58,9 @@ Add content here.
 Add content here.
 
 ### Academic Integrity
-Let’s get honest about being honest. It is truly a disappointment to catch students cheating. All we really want is for you to learn the material and if the class is stressful enough that you feel the need to cheat, we have failed as instructors. If you are feeling stressed out in the course, please tell us. We will do what we can to help you. Know that Edstem has a very good plagiarism detector.
-
 Maintaining academic integrity is a crucial part of your learning experience, as cheating prevents us as instructors from understanding where our model of instruction isn’t working. We understand that academics can be stressful and that it might be tempting to cheat; however, there are ways to meet your goals that don’t require academically dishonest means. Here, we will lay out our academic integrity policies and some good practices that will help you avoid academic dishonesty and improve your overall mastery of the material.
+
+Let’s get honest about being honest. It is truly a disappointment to catch students cheating. All we really want is for you to learn the material and if the class is stressful enough that you feel the need to cheat, we have failed as instructors. If you are feeling stressed out in the course, please tell us. We will do what we can to help you. Know that Edstem has a very good plagiarism detector.
 
 What constitutes cheating?
 
