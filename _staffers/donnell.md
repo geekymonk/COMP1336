@@ -1,8 +1,8 @@
 ---
 name: Donnell Debnam Jr. ✍️
 role: Instructor
-email: ddebnam@google.com
-# website: https://kevinl.info
+email: [ddebnam@google.com](mailto:ddebnam@google.com)
+website: snellscholars.org
 photo: donnell.jpg
 meta:
   Office Hours: Virtual office hours available on Monday & Friday using the 'Schedule an appointment' button. Physical office hours [here](http://comp1336.com/schedule).
