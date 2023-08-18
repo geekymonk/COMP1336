@@ -1,7 +1,7 @@
 ---
 name: Donnell Debnam Jr. ✍️
 role: Instructor
-email: [ddebnam@google.com](mailto:ddebnam@google.com)
+email: ddebnam@google.com
 website: snellscholars.org
 photo: donnell.jpg
 meta:
